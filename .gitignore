@@ -1,0 +1,5 @@
+# OS generated files/folders
+.DS_Store
+
+# local env files
+.env* 
